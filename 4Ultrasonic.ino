@@ -1,10 +1,7 @@
 int trigPin1=2;
 int echoPin1=3;
-
 int echoPin2=5;
-
 int echoPin3=7;
-
 int echoPin4=9;
 
 
